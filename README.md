@@ -8,7 +8,6 @@ This simple project was made to help me out fill drill logs for deep foundation 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
 - [Questions](#questions)
   <a name="installation"></a>
 
